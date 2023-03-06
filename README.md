@@ -11,10 +11,10 @@
 
 ### :man_technologist: About Me :
 I am a full stack developer with passion of contributing to open source. <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="30">
-- :man_technologist: I am upcoming Backend Engineering Intern at Atlan. 
+- :man_technologist: I am Backend Engineering Intern at Atlan. 
 - :zap: Interested in exploring web development and Open Source.
 - :compass: Having worked with the Django framework and MERN stack.
-- <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/> I love doing problem-solving with application of Data Structures and Algorithms.
+- <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/> I am intrested in problem-solving with application of Data Structures and Algorithms.
 
 ---
 
