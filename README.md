@@ -10,31 +10,17 @@
 ---
 
 ### :man_technologist: About Me :
-I am a backend engineer with passion of contributing to open source. <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="30">
-- :man_technologist: I am currently Customer Engineering Specialist l at Atlan. I am working with tools and technologies like Golang, Elasticsearch, Kong, Ranger, OpenAPI, Looker, dbt and Python.
-- :zap: Interested in exploring web development and Open Source.
-- :compass: Having worked with the Django framework and MERN stack.
-- <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/> I am interested in problem-solving with application of Data Structures and Algorithms.
-
+I am a backend engineer with passion of contributing to open source. 
+- :man_technologist: I am currently working as Customer Engineering Specialist I at Atlan. I have experience building systems using tools and technologies like Golang, Python, Elasticsearch, Apache Keycloak, Apache Ranger and OpenAPI specification.
+- :zap: Always exploring new technologies and Open Source projects. (Favourites? There are way too many to mention here... 😏)
+- :compass: Having experience in working with the Django framework and MERN stack.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-</div>
+
+  [![My Skills](https://skillicons.dev/icons?i=go,c,cpp,python,django,postgres,html,css,bootstrap,git,matlab&perline=11)](https://skillicons.dev)
+  <img src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
+  <img src="https://avatars3.githubusercontent.com/u/16343502?v=3&s=200" title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
 
 ---
 
