@@ -9,14 +9,14 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 I am a backend engineer with passion of contributing to open source. 
 - :man_technologist: I am currently working as Customer Engineering Specialist I at Atlan. I have experience building systems using tools and technologies like Golang, Python, Elasticsearch, Apache Keycloak, Apache Ranger and OpenAPI specification.
 - :zap: Always exploring new technologies and Open Source projects. (Favourites? There are way too many to mention here... 😏)
 - :compass: Having experience in working with the Django framework and MERN stack.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
   [![My Skills](https://skillicons.dev/icons?i=go,c,cpp,python,django,postgres,html,css,bootstrap,git,matlab&perline=11)](https://skillicons.dev)
   <img src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
