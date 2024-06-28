@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me :
 I am a backend engineer with passion of contributing to open source. 
-- :man_technologist: I am currently working as Customer Engineering Specialist I at Atlan. I have experience building systems using tools and technologies like Golang, Python, Elasticsearch, Argo and OpenAPI specification.
+- :man_technologist: I am currently working as Software Engineer I at Atlan. I have experience building systems using tools and technologies like Golang, Python, Elasticsearch, Argo and OpenAPI specification.
 - :zap: Always exploring new technologies and Open Source projects. (Favourites? There are way too many to mention here... 😏)
 - :compass: Having built projects using the Django framework and MERN stack.
 - :package: I also have work experience in ETL packages and writing production APIs.
